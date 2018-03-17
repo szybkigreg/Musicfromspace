@@ -1,7 +1,7 @@
 {
     "room": "♫|Music|From|Space|♫",
     "author": "Grzesiek_PL",
-    "icon": "https://szybkigreg.github.io/Musicfromspace/logo.jpg",
+    "icon": "https://szybkigreg.github.io/Musicfromspace/logosmall.png",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
