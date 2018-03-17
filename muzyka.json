@@ -1,7 +1,7 @@
 {
     "room": "♫|Music|From|Space|♫",
     "author": "Grzesiek_PL",
-    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB7CAMAAABjGQ9NAAAAYFBMVEX///8AAABycnL7+/s9PT2lpaX19fW/v7/R0dG6urrv7+/y8vLr6+tKSkrl5eXa2tqtra0MDAx8fHwoKCifn59nZ2dYWFgTExMxMTGCgoKRkZFtbW3JyclgYGAgICBERETDLEkFAAADj0lEQVRoge2abZeyIBCGYXOVtMy0zNqy//8vt+0ww/hCJpCc8zzMt5T1WmC4Z2BgLFiwYMGCBQsW7D+1WIjYEzppOG8uGx9owZ9W+aAfubSqWHrksztH24qF4TUndl59gLBKM82bNWXzaOccfa3bqtQ406EDP60do5PT32dvmq6Lrw792y16P/HV3Q+FXxyicUa/9G3Elnqce/QrNmMFgZeO0Al/j81y0nU3w07QE2wWn1XTwgG6s3oH7DjPO2JCltvVGk17PWRf61N7W1MVV5Me5U7RfbZ4rnq+TcgzNU5HO3RXLgdsVPIt6aPq+cElusdeNaOuhXN+spD2pI/usyPyqkzxOSrszRy9n2CzC313w0iT4jpP+t80R/fZ2ZG+jLDn0gc5v5tF88Fcj7AfrRoKRxJOuZHCjKLHdO27IsMO8BhGvTXI4IZupmOzDRFSVPGrecc1aI2eF8oz0Llg6W/ndnx8wLVsJnDcG3B2AU8mZH3VNW2v9XFs10ILzBqg4y8jeVFHPdOi9TEUu8khQ4cONC92K+dxyhQ7P+73JdFMVPFaPohhy6BPW4WGMsGWg0yy5hLawARf+n8zsG8zNqSlEW6CcpiqH+iVFLdG6+lm7BR9Yi8GX5JjgfqijWZm7Ez5IwZKfAZJPHiSVl4Mx5x4KKoHfAq8DTxdu8oM2fFNPQQhzeCBjGe5lLvGMZvFKna3kDBBRJXCiqvMNfvhxzjn0PGi9xsWgy5hNWezDBw5kjOey9+QoIJT6CTdgs1yUHFYZ/LnXf4vkEHolM2GjdIFybCchUY6G4RD3SKzYgvpybCKpLO1Ul0ggdDt2q3YuYzbMMFS00/SuSBWfIS9aUbZ4Ni7f7XfPufbo5/nsP1Yfn2n/nTNn557jGM0foOnLRW/Sd5SL5y3kHwNR3ypfE3lqepMZak8FV34bpOf2+1LzuqAx2BfYrMfO1vux7zuQ5mT/TeePMzbf4/Y3HOHq/m5w9A8nrd4PWdydr5WGVVI3ztXLAjZ2bmiyXkqVu5sz1O9niPPPT9X9UoH5+de6waT9RJMXj5QL/FaJ5quj7Wfq495rQvOq4eWqqmLeqjXOvDb9W+a+rmqf3ut+3u97+D1nsfj83Vbnd+639K6vt/yd69HlwZ0hfduLykzrHOfye1UTxm9x1UvfY8Lk5dm8ftr6t5eOt3WuT3vKx683Ff0ek8zWLBgwYIFCxbsU/YL6GAyPOg1issAAAAASUVORK5CYII=",
+    "icon": "https://szybkigreg.github.io/Musicfromspace/logo.jpg",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": "#E3E3E3"
     },
     "images": {
-        "background": "https://szybkigreg.github.io/Musicfromspace/space.png",
+        "background": "space.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
