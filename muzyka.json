@@ -1,7 +1,7 @@
 {
     "room": "♫|Music|From|Space|♫",
     "author": "Grzesiek_PL",
-    "icon": "https://szybkigreg.github.io/Musicfromspace/logosmall.png",
+    "icon": "",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": "#E3E3E3"
     },
     "images": {
-        "background": "space.png",
+        "background": "https://szybkigreg.github.io/Musicfromspace/PlugDj/background/background.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
